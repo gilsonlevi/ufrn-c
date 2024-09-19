@@ -2,9 +2,7 @@
 
 int main()
 {
-    printf("Welcome to my eeprogram\n");
+    printf("Welcome my program\n");
     
     return 0;
-
-
 }
